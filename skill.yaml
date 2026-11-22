@@ -1,0 +1,5 @@
+name: "solana-hard-push"
+title: "Solana hard push"
+description: "Hard-push a Solana game from recon to a running driver: SIWS login, API-first play, driver plus supervisor plus watchdog, and the money rules, proven by Dreadwood, SolHero, Tarvion, Pokedex Idle, Dracoria and Antropolis."
+category: "Work and knowledge"
+include_in_prompt: true
